@@ -82,7 +82,8 @@
 			    <artifactId>tomcat7-maven-plugin</artifactId>
 			    <version>2.2</version>
 			    <configuration>
-			        <url>http://localhost:8081/manager/text</url>
+			        <!--<url>http://localhost:8081/manager/text</url> --> <!-- for local jenkins auto deployment-->
+					<url>http://192.168.56.1:8081/manager/text</url>  <!-- for VM jenkins auto deployment-->
 			        <server>tomcatserver</server>
 			        <path>/DevOpsWebApp-Dev1</path>
 			        <username>admin</username>
