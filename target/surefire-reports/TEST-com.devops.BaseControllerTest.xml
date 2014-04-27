@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.devops.BaseControllerTest" time="0.008" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="TestWebApp"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="JENKINS_HOME" value="C:\Users\laptop user\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="b792b8092acd05e0"/>
+    <property name="POM_ARTIFACTID" value="DevOpsWebApp-Dev1"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.boot.class.path" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\resources.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\rt.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\sunrsasign.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\jsse.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\jce.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\charsets.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\jfr.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="Dev Ops WebApp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\LAPTOP~1\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0-b132"/>
+    <property name="_RUNJDB" value="&quot;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin\jdb&quot;"/>
+    <property name="user.name" value="laptop user"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CURRENT_DIR" value="C:\Zap\Personal_Reserviour\Installable\Tomcat\apache-tomcat-7.0.53-windows-x86\apache-tomcat-7.0.53\bin"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="BUILD_DISPLAY_NAME" value="#61"/>
+    <property name="sun.boot.library.path" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\bin"/>
+    <property name="ACTION" value="start"/>
+    <property name="LOCALAPPDATA" value="C:\Users\laptop user\AppData\Local"/>
+    <property name="java.version" value="1.8.0"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="America/Phoenix"/>
+    <property name="USERNAME" value="laptop user"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="2014-04-26_19-07-23"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="EXECUTABLE" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\bin\catalina.bat"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="JAVA_ENDORSED_DIRS" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\endorsed"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="VAGRANT_HOME" value="C:\HashiCorp\Vagrant"/>
+    <property name="JRE_HOME" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.1"/>
+    <property name="CATALINA_HOME" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\LAPTOP~1\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.0-b70"/>
+    <property name="JAVA_OPTS" value=" -Djava.util.logging.config.file=&quot;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="user.variant" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\laptop user"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="war"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="LAPTOPUSER-PC"/>
+    <property name="POM_GROUPID" value="com.devops"/>
+    <property name="user.home" value="C:\Users\laptop user"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-TestWebApp-61"/>
+    <property name="JENKINS_SERVER_COOKIE" value="b792b8092acd05e0"/>
+    <property name="HUDSON_URL" value="http://localhost:8081/jenkins/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\laptop user"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1/bin;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0/bin;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0/bin;C:\Program Files\Dell\DW WLAN Card;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\bin;C:\Program Files\TortoiseSVN\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Oracle\VirtualBox\;C:\HashiCorp\Vagrant\bin;C:\HashiCorp\Vagrant\embedded;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\laptop user\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1"/>
+    <property name="java.class.path" value="C:\Users\laptop user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.4.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1\boot\plexus-classworlds-2.5.1.jar;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1 C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\webapps\jenkins\WEB-INF\lib\remoting-2.36.jar C:\Users\laptop user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.4.jar C:\Users\laptop user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.4.jar 58397"/>
+    <property name="Path" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0/bin;C:\Program Files\Dell\DW WLAN Card;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\bin;C:\Program Files\TortoiseSVN\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Oracle\VirtualBox\;C:\HashiCorp\Vagrant\bin;C:\HashiCorp\Vagrant\embedded"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="PATH+JDK" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 37 Stepping 5, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="CATALINA_BASE" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1"/>
+    <property name="java.io.tmpdir" value="C:\Users\LAPTOP~1\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="HUDSON_HOME" value="C:\Users\laptop user\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8081/jenkins/job/TestWebApp/61/"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin\java&quot;"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="x86"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\conf\logging.properties&quot;"/>
+    <property name="java.ext.dirs" value="C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Zap\Personal_Reserviour\Installable\Zafar\source\web_application\devops_webapp"/>
+    <property name="JOB_URL" value="http://localhost:8081/jenkins/job/TestWebApp/"/>
+    <property name="CATALINA_TMPDIR" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-tomcat-7.0.53\temp"/>
+    <property name="_RUNJAVA" value="&quot;C:\Zap\Personal_Reserviour\Installable\Zafar\java\jdk1.8.0\bin\java&quot;"/>
+    <property name="LOGONSERVER" value="\\LAPTOPUSER-PC"/>
+    <property name="USERDOMAIN" value="laptopuser-PC"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Zap\Personal_Reserviour\Installable\Zafar\apache-maven-3.2.1"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="61"/>
+    <property name="JENKINS_URL" value="http://localhost:8081/jenkins/"/>
+    <property name="PROCESSOR_REVISION" value="2505"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="GIT_COMMIT" value="e21ba08ac2d7d39c76aa6e2edf283ea9585241c9"/>
+    <property name="=C:" value="C:\Zap\Personal_Reserviour\Installable\Tomcat\apache-tomcat-7.0.53-windows-x86\apache-tomcat-7.0.53\bin"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="VBOX_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="maven3.interceptor" value="C:\Users\laptop user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.4.jar"/>
+    <property name="WORKSPACE" value="C:\Users\laptop user\.jenkins\jobs\TestWebApp\workspace"/>
+    <property name="maven3.interceptor.common" value="C:\Users\laptop user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.4.jar"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="GIT_URL" value="https://github.com/zafarpatel/devops_webapp.git"/>
+  </properties>
+  <testcase classname="com.devops.BaseControllerTest" name="testWelcome" time="0.008"/>
+</testsuite>
