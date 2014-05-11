@@ -99,7 +99,7 @@
 				  <phase>install</phase>
 				  <configuration>
 					<tasks>					  
-					  <copy file="C:/Zap/Personal_Reserviour/Installable/Zafar/apache-tomcat-7.0.53/webapps/DevOpsWebApp-Dev1.war" tofile="C:/HashiCorp/Vagrant/bin/webapps/DevOpsWebApp-Dev1.war" />					  
+					  <copy file="C:/Zap/Personal_Reserviour/Installable/Zafar/apache-tomcat-7.0.53/webapps/DevOpsWebApp-Dev1.war" tofile="C:/HashiCorp/Vagrant/bin/DevOpsWebApp-Dev1.war" />					  
 					</tasks>
 				  </configuration>
 				  <goals>
